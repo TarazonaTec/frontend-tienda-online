@@ -9,44 +9,50 @@
     {
         "producto":"bicicleta aro",
        "precio":250.00,
-       "img":"https://www.bestbikes.com.pe/9195-large_default/bicicleta-best-stork-aro-29-21v-negro-verde.jpg"
+       "img":"https://images.pexels.com/photos/276517/pexels-photo-276517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+
+    },
+    
+    {
+        "producto":"bicicleta aro",
+       "precio":250.00,
+       "img":"https://images.pexels.com/photos/276517/pexels-photo-276517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+
+    },
+    
+    {
+        "producto":"bicicleta aro",
+       "precio":250.00,
+       "img":"https://images.pexels.com/photos/276517/pexels-photo-276517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 
     },
     {
         "producto":"bicicleta aro",
        "precio":250.00,
-       "img":"https://www.bestbikes.com.pe/9195-large_default/bicicleta-best-stork-aro-29-21v-negro-verde.jpg"
+       "img":"https://images.pexels.com/photos/276517/pexels-photo-276517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 
     },
     {
         "producto":"bicicleta aro",
        "precio":250.00,
-       "img":"https://www.bestbikes.com.pe/9195-large_default/bicicleta-best-stork-aro-29-21v-negro-verde.jpg"
+       "img":"https://images.pexels.com/photos/276517/pexels-photo-276517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 
     },
     {
         "producto":"bicicleta aro",
        "precio":250.00,
-       "img":"https://www.bestbikes.com.pe/9195-large_default/bicicleta-best-stork-aro-29-21v-negro-verde.jpg"
+       "img":"https://images.pexels.com/photos/276517/pexels-photo-276517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 
     },
     {
         "producto":"bicicleta aro",
        "precio":250.00,
-       "img":"https://www.bestbikes.com.pe/9195-large_default/bicicleta-best-stork-aro-29-21v-negro-verde.jpg"
-
-    },
-    {
-        "producto":"bicicleta aro",
-       "precio":250.00,
-       "img":"https://www.bestbikes.com.pe/9195-large_default/bicicleta-best-stork-aro-29-21v-negro-verde.jpg"
-
-    },
-    {
-        "producto":"bicicleta aro",
-       "precio":250.00,
-       "img":"https://www.bestbikes.com.pe/9195-large_default/bicicleta-best-stork-aro-29-21v-negro-verde.jpg"
+       "img":"https://images.pexels.com/photos/276517/pexels-photo-276517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 
     }
+    
+    
+
+   
     
 ]
